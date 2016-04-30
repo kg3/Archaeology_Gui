@@ -1,7 +1,9 @@
 Course Project Phase 3 Archaeology
 ===========
 
-1.Objective
+A map based game where a user clicks to dig, or excavate certain tiles of the map to find gold. The coding started the game
+inside the console, then as the class progressed we moved the output into a GUI using Java's Swing package.
+
   1. The goal of this third phase is to cover the graphical components of the Java language, including
     1. Swing
     2. Mouse control

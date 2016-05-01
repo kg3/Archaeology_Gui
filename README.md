@@ -1,4 +1,4 @@
-Course Project Phase 3 Archaeology
+Course Project - Phase 3 - Archaeology Game
 ===========
 
 A map based game where a user clicks to dig, or excavate certain tiles of the map to find gold. The coding started the game
